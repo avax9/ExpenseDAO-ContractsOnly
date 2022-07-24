@@ -2,7 +2,7 @@
 
 <img src="./screenshots/main.png"></img>
 
-**This is a repo which contains only smart contract files and examples, screenshots, etc. For a full source code please contact us at golubocialeksandarr@gmail.com**
+**This is a repo which contains only smart contract files and examples, screenshots, etc. For a full source code repo please contact us at golubovicaleksandarr@gmail.com**
 
 ## Project Overview
 ExpenseDAO is an expense management system for DAOs (Decentralized Autonomous Organizations). The app tracks and files expenses such as fuel, travel, and meals.
