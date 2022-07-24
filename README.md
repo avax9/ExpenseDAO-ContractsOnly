@@ -72,6 +72,7 @@ There are following rules and constraints in order to make ExpenseDAO organizati
 5. An approver cannot approve its own request. The other approvers are allowed to do it.
 6. Only approver is allowed to do the carbon offsetting.
 7. All the reimbursements are paid out from the organization's wallet.
+8. Organization creation transaction consumes ~700trx on Tron Nile testnet, so make sure you have enough test tokens in your wallet.
 
 
 
